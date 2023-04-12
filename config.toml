@@ -1,0 +1,13 @@
+baseURL = "https://opentelemetry.jiekun.dev/"
+languageCode = "zh-cn"
+title = "OpenTelemetry"
+theme = "book"
+publishDir = "docs"
+
+
+[params]
+   BookMenuBundle = '/menu'
+
+   # (Optional, default light) Sets color theme: light, dark or auto.
+   # Theme 'auto' switches between dark and light modes based on browser/os preferences
+   BookTheme = 'light'
