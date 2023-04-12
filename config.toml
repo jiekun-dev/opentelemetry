@@ -3,7 +3,7 @@ languageCode = "zh-cn"
 title = "OpenTelemetry"
 theme = "book"
 publishDir = "docs"
-
+googleAnalytics = 'G-E35HJVS1L0'
 
 [params]
    BookMenuBundle = '/menu'
